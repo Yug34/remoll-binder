@@ -160,4 +160,3 @@ dependencies:
   - zstd=1.5.0
   - pip:
     - stashcp==6.1.0
-prefix: /home/verti/anaconda3/envs/remoll-binder
